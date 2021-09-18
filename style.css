@@ -1,0 +1,35 @@
+#g1 {
+    border-style: solid;
+}
+
+#g2 {
+    border-style: dotted;
+}
+
+#g3 {
+    border-style: dashed;
+}
+
+#g4 {
+    border-style: double;
+}
+
+#g5 {
+    border-style: groove;
+}
+
+#g6 {
+    border-style: inset;
+}
+
+#g7 {
+    border-style: outset;
+}
+
+#g8 {
+    border-style: ridge;
+}
+
+html {
+    background-color: aquamarine;
+}
